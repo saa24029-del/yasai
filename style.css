@@ -1,0 +1,62 @@
+body {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f7fbf7;
+    color: #2e4a30;
+}
+header {
+    background-color: #38761d;
+    color: white;
+    text-align: center;
+    padding: 40px 20px;
+}
+h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+.container {
+    max-width: 800px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+.intro {
+    font-size: 1.2rem;
+    text-align: center;
+    margin-bottom: 40px;
+}
+h2 {
+    border-left: 5px solid #38761d;
+    padding-left: 10px;
+    margin-top: 40px;
+}
+.cultivation-points li {
+    margin-bottom: 12px;
+    line-height: 1.8;
+}
+.cucumber-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px 0;
+}
+.cucumber-table th, .cucumber-table td {
+    border: 1px solid #b6d7a8;
+    padding: 12px;
+    text-align: left;
+}
+.cucumber-table th {
+    background-color: #38761d;
+    color: white;
+    width: 25%;
+}
+.cucumber-table td {
+    background-color: #ffffff;
+}
+footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #e0efe0;
+    margin-top: 50px;
+    font-size: 0.9rem;
+}
